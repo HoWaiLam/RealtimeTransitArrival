@@ -43,6 +43,7 @@ body {
 }
 
 .header-tc {
+	font-family: Roboto;
 	padding: 2px;
 }
 
@@ -154,6 +155,10 @@ body {
 	vertical-align: bottom;
 }
 
+.popup-title-tc {
+	font-family: "KaiTi";
+}
+
 .popup-title-en {
 	font-size: 14px;
 }
@@ -208,7 +213,7 @@ body {
 }
 
 .transit-tally-value {
-	font-size: 18px;
+	font-size: 16px;
 	grid-area: transit-tally-value;
 	margin:auto;
 }
