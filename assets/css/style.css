@@ -14,6 +14,10 @@ body {
     overflow: hidden;
 }
 
+canvas {
+   border: none;
+}
+
 .clock {
 	font-size: 16px;
 }
@@ -194,11 +198,11 @@ body {
 
 .transit-tally {
 	display: grid;
-	grid-template-columns: 4fr 1fr;
+	grid-template-columns: 7fr 1fr 1fr;
 	grid-template-rows: 1fr 0.8fr;
 	grid-template-areas: 
-		'transit-tally-tc transit-tally-value'
-		'transit-tally-en transit-tally-value';
+		'transit-tally-tc transit-tally-value transit-tally-img'
+		'transit-tally-en transit-tally-value transit-tally-img';
 	font-weight: normal;
 	padding: 2px;
 }
@@ -212,10 +216,14 @@ body {
 	font-size: 12px;
 }
 
+.transit-tally-img {
+	grid-area: transit-tally-img;
+}
+
 .transit-tally-value {
 	font-size: 16px;
 	grid-area: transit-tally-value;
-	margin:auto;
+	margin: auto;
 }
 
 .title {
