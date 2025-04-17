@@ -1,0 +1,1760 @@
+{
+  "exportTimestamp": "2025-04-12T12:48:12.246613+00:00",
+  "data": [
+    {
+      "stopId": 99101,
+      "nameEn": "SHAU KEI WAN ROAD (CHAI WAN ROAD)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9936704408379358,
+        0.38880277376998695,
+        23.899999618530273
+      ],
+      "operators": {
+        "TRAM": [
+          "99101"
+        ]
+      }
+    },
+    {
+      "stopId": 99102,
+      "nameEn": "SHAU KEI WAN ROAD (SUN SING STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9936160912850283,
+        0.3888516604423353,
+        61.20000076293945
+      ],
+      "operators": {
+        "TRAM": [
+          "99102"
+        ]
+      }
+    },
+    {
+      "stopId": 99103,
+      "nameEn": "SHAU KEI WAN ROAD (HOI FOO STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935913774228204,
+        0.3888663212080521,
+        74.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99103"
+        ]
+      }
+    },
+    {
+      "stopId": 99104,
+      "nameEn": "SHAU KEI WAN ROAD (HOLY CROSS PATHT)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935617417321216,
+        0.38887988241634003,
+        45.400001525878906
+      ],
+      "operators": {
+        "TRAM": [
+          "99104"
+        ]
+      }
+    },
+    {
+      "stopId": 99105,
+      "nameEn": "SHAU KEI WAN ROAD (TAI HONG STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935333103186066,
+        0.38891456210857717,
+        65.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99105"
+        ]
+      }
+    },
+    {
+      "stopId": 99106,
+      "nameEn": "SHAU KEI WAN ROAD (TAI KOO SHING ROAD)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.993520604321652,
+        0.3889308111239132,
+        120.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99106"
+        ]
+      }
+    },
+    {
+      "stopId": 99107,
+      "nameEn": "KORNHILL ROAD (KORNHILL)",
+      "nameTc": "\u5eb7\u5c71\u9053",
+      "coordinates": [
+        1.993445415537476,
+        0.3889396424899284,
+        22.448549270629883
+      ],
+      "operators": {
+        "TRAM": [
+          "99107"
+        ]
+      }
+    },
+    {
+      "stopId": 99108,
+      "nameEn": "KING'S ROAD (SHIPYARD LANE)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9934066343214965,
+        0.3889402882617516,
+        19.899999618530273
+      ],
+      "operators": {
+        "TRAM": [
+          "99108"
+        ]
+      }
+    },
+    {
+      "stopId": 99109,
+      "nameEn": "KING'S ROAD (MOUNT PARKER ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933768240978726,
+        0.388943761466963,
+        120.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99109"
+        ]
+      }
+    },
+    {
+      "stopId": 99110,
+      "nameEn": "KING'S ROAD (FINNIE STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933373796567777,
+        0.3890091764073278,
+        31.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99110"
+        ]
+      }
+    },
+    {
+      "stopId": 99111,
+      "nameEn": "KING'S ROAD (JAVA ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933245165801903,
+        0.38904685806587835,
+        65.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99111"
+        ]
+      }
+    },
+    {
+      "stopId": 99112,
+      "nameEn": "KING'S ROAD (HEALTHY STREET EAST)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9932957186475326,
+        0.389064032105718,
+        120.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99112"
+        ]
+      }
+    },
+    {
+      "stopId": 99113,
+      "nameEn": "KING'S ROAD (HEALTHY STREET WEST)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9932547383166956,
+        0.3890698789587122,
+        5.075571537017822
+      ],
+      "operators": {
+        "TRAM": [
+          "99113"
+        ]
+      }
+    },
+    {
+      "stopId": 99114,
+      "nameEn": "KING'S ROAD (TIN CHIU STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.993230007001195,
+        0.3890660915942353,
+        19.399999618530273
+      ],
+      "operators": {
+        "TRAM": [
+          "99114"
+        ]
+      }
+    },
+    {
+      "stopId": 99115,
+      "nameEn": "KING'S ROAD (SHU KUK STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9931776820302203,
+        0.3890555498055533,
+        82.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99115"
+        ]
+      }
+    },
+    {
+      "stopId": 99116,
+      "nameEn": "KING'S ROAD (NORTH POINT ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9931150072567811,
+        0.3890426343690885,
+        114.5999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99116"
+        ]
+      }
+    },
+    {
+      "stopId": 99117,
+      "nameEn": "KING'S ROAD (FORTRESS HILL)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930670805155213,
+        0.3890190026110166,
+        83.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99117"
+        ]
+      }
+    },
+    {
+      "stopId": 99118,
+      "nameEn": "KING'S ROAD (JUPITER STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930425062796533,
+        0.3889750203138662,
+        92.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99118"
+        ]
+      }
+    },
+    {
+      "stopId": 99119,
+      "nameEn": "KING'S ROAD (LAU LI STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930396264863872,
+        0.38893751318824094,
+        101.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99119"
+        ]
+      }
+    },
+    {
+      "stopId": 99120,
+      "nameEn": "KING'S ROAD (LAU SIN STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930296257497737,
+        0.3889058354623172,
+        67.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99120"
+        ]
+      }
+    },
+    {
+      "stopId": 99121,
+      "nameEn": "CAUSEWAY ROAD(VICTORIA PARK)",
+      "nameTc": "\u9ad8\u58eb\u5a01\u9053",
+      "coordinates": [
+        1.9929845788017795,
+        0.3888709986904474,
+        4.999072074890137
+      ],
+      "operators": {
+        "TRAM": [
+          "99121"
+        ]
+      }
+    },
+    {
+      "stopId": 99122,
+      "nameEn": "CAUSEWAY ROAD(SHELTER STREET)",
+      "nameTc": "\u9ad8\u58eb\u5a01\u9053",
+      "coordinates": [
+        1.9929581545169044,
+        0.38885335341170973,
+        101.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99122"
+        ]
+      }
+    },
+    {
+      "stopId": 99123,
+      "nameEn": "YEE WO STREET (PENNINGTON STREET)",
+      "nameTc": "\u6021\u548c\u8857",
+      "coordinates": [
+        1.9929319047649545,
+        0.38885068305795417,
+        92.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99123"
+        ]
+      }
+    },
+    {
+      "stopId": 99124,
+      "nameEn": "YEE WO STREET (PATERSON STREET)",
+      "nameTc": "\u6021\u548c\u8857",
+      "coordinates": [
+        1.9929120952779442,
+        0.38885698369655386,
+        114.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99124"
+        ]
+      }
+    },
+    {
+      "stopId": 99125,
+      "nameEn": "HENNESSY ROAD (CANAL ROAD WEST)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.9928387565427754,
+        0.3888479952509061,
+        3.9952025413513184
+      ],
+      "operators": {
+        "TRAM": [
+          "99125"
+        ]
+      }
+    },
+    {
+      "stopId": 99126,
+      "nameEn": "HENNESSY ROAD (TONNOCHY ROAD)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.992776273755554,
+        0.388827348005855,
+        105.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99126"
+        ]
+      }
+    },
+    {
+      "stopId": 99127,
+      "nameEn": "JOHNSTON ROAD (BURROWS STREET)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.992745625773889,
+        0.3888114306030768,
+        74.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99127"
+        ]
+      }
+    },
+    {
+      "stopId": 99128,
+      "nameEn": "JOHNSTON ROAD (O'BRIEN ROAD)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9927019227294192,
+        0.38879898640551014,
+        78.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99128"
+        ]
+      }
+    },
+    {
+      "stopId": 99129,
+      "nameEn": "JOHNSTON ROAD (SWATOW STREET)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9926783956911023,
+        0.38879645567809473,
+        79.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99129"
+        ]
+      }
+    },
+    {
+      "stopId": 99130,
+      "nameEn": "JOHNSTON ROAD (GRESSON STREET)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.992645199528729,
+        0.38880907440858664,
+        51.400001525878906
+      ],
+      "operators": {
+        "TRAM": [
+          "99130"
+        ]
+      }
+    },
+    {
+      "stopId": 99131,
+      "nameEn": "JOHNSTON ROAD (FENWICK STREET)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9926438381719127,
+        0.3888114306030768,
+        102.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99131"
+        ]
+      }
+    },
+    {
+      "stopId": 99132,
+      "nameEn": "HENNESSY ROAD (ARSENAL STREET)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.9926164015960712,
+        0.3888204190487246,
+        114.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99132"
+        ]
+      }
+    },
+    {
+      "stopId": 99133,
+      "nameEn": "QUEENSWAY (ADMIRALTY MTR STATION)",
+      "nameTc": "\u91d1\u9418\u9053",
+      "coordinates": [
+        1.992547146931352,
+        0.38882923296144717,
+        11.299239158630371
+      ],
+      "operators": {
+        "TRAM": [
+          "99133"
+        ]
+      }
+    },
+    {
+      "stopId": 99134,
+      "nameEn": "QUEENSWAY (COTTON TREE DRIVE)",
+      "nameTc": "\u91d1\u9418\u9053",
+      "coordinates": [
+        1.9925180173861365,
+        0.3888456216031234,
+        10.390932083129883
+      ],
+      "operators": {
+        "TRAM": [
+          "99134"
+        ]
+      }
+    },
+    {
+      "stopId": 99135,
+      "nameEn": "DES VOEUX ROAD CENTRAL (BANK STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.992461782877637,
+        0.38887021329228405,
+        180.89999389648438
+      ],
+      "operators": {
+        "TRAM": [
+          "99135"
+        ]
+      }
+    },
+    {
+      "stopId": 99136,
+      "nameEn": "DES VOEUX ROAD CENTRAL (PEDDER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.992432304266571,
+        0.3888900576858792,
+        158.3000030517578
+      ],
+      "operators": {
+        "TRAM": [
+          "99136"
+        ]
+      }
+    },
+    {
+      "stopId": 99137,
+      "nameEn": "DES VOEUX ROAD CENTRAL (POTTINGER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9924080965498459,
+        0.38892032169510876,
+        75.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99137"
+        ]
+      }
+    },
+    {
+      "stopId": 99138,
+      "nameEn": "DES VOEUX ROAD CENTRAL (GILMAN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9923796302297458,
+        0.38895089986360376,
+        95.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99138"
+        ]
+      }
+    },
+    {
+      "stopId": 99139,
+      "nameEn": "DES VOEUX ROAD CENTRAL (MAN WAH LANE)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9923450727105563,
+        0.3889691734608721,
+        100.80000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99139"
+        ]
+      }
+    },
+    {
+      "stopId": 99140,
+      "nameEn": "WESTERN MARKET TERMINUS",
+      "nameTc": "\u4e0a\u74b0\u8857\u5e02(\u897f\u6e2f\u57ce)\u7e3d\u7ad9",
+      "coordinates": [
+        1.9923052792036107,
+        0.38897910438431593,
+        111.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99140"
+        ]
+      }
+    },
+    {
+      "stopId": 99141,
+      "nameEn": "CONNAUGHT ROAD WEST (MACAU FERRY TERMINAL)",
+      "nameTc": "\u5e72\u8afe\u9053\u897f",
+      "coordinates": [
+        1.992291386382765,
+        0.38899455054819604,
+        88.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99141"
+        ]
+      }
+    },
+    {
+      "stopId": 99142,
+      "nameEn": "CONNAUGHT ROAD WEST",
+      "nameTc": "\u5e72\u8afe\u9053\u897f",
+      "coordinates": [
+        1.9922722575741632,
+        0.38899926293717646,
+        85.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99142"
+        ]
+      }
+    },
+    {
+      "stopId": 99143,
+      "nameEn": "DES VOEUX ROAD WEST (SUTHERLAND STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9922249940580192,
+        0.38899406185600555,
+        129.3000030517578
+      ],
+      "operators": {
+        "TRAM": [
+          "99143"
+        ]
+      }
+    },
+    {
+      "stopId": 99144,
+      "nameEn": "DES VOEUX ROAD WEST (EASTERN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9921901049262718,
+        0.38899626097086304,
+        96.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99144"
+        ]
+      }
+    },
+    {
+      "stopId": 99145,
+      "nameEn": "DES VOEUX ROAD WEST (WESTERN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9921379370349295,
+        0.38899783176718983,
+        45.29999923706055
+      ],
+      "operators": {
+        "TRAM": [
+          "99145"
+        ]
+      }
+    },
+    {
+      "stopId": 99146,
+      "nameEn": "DES VOEUX ROAD WEST (WATER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9921018785325835,
+        0.3889899428789709,
+        118.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99146"
+        ]
+      }
+    },
+    {
+      "stopId": 99147,
+      "nameEn": "DES VOEUX ROAD WEST (WHITTY STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9920625911711212,
+        0.3889792091040711,
+        80.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99147"
+        ]
+      }
+    },
+    {
+      "stopId": 99148,
+      "nameEn": "DES VOEUX ROAD WEST (HILL ROAD)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.992023286356366,
+        0.3889818794578266,
+        75.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99148"
+        ]
+      }
+    },
+    {
+      "stopId": 99149,
+      "nameEn": "KENNNEDY TOWN PRAYA (QUEEN'S ROAD WEST)",
+      "nameTc": "\u5805\u5c3c\u5730\u57ce\u6d77\u65c1",
+      "coordinates": [
+        1.9919811192016377,
+        0.3889662587610212,
+        82.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99149"
+        ]
+      }
+    },
+    {
+      "stopId": 99150,
+      "nameEn": "KENNNEDY TOWN PRAYA",
+      "nameTc": "\u5805\u5c3c\u5730\u57ce\u6d77\u508d",
+      "coordinates": [
+        1.991950645752898,
+        0.3889345810350976,
+        114.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99150"
+        ]
+      }
+    },
+    {
+      "stopId": 99151,
+      "nameEn": "CATCHICK STREET (SANDS STREET)",
+      "nameTc": "\u5409\u5e2d\u8857",
+      "coordinates": [
+        1.9919328783011125,
+        0.38892021697535367,
+        118.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99151"
+        ]
+      }
+    },
+    {
+      "stopId": 99152,
+      "nameEn": "CATCHICK STREET (SMITHFIELD)",
+      "nameTc": "\u5409\u5e2d\u8857",
+      "coordinates": [
+        1.9919042549013801,
+        0.3889147017349173,
+        38.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99152"
+        ]
+      }
+    },
+    {
+      "stopId": 99153,
+      "nameEn": "CATCHICK STREET (DAVIS STREET)",
+      "nameTc": "\u5409\u5e2d\u8857",
+      "coordinates": [
+        1.9918925611953915,
+        0.38891264224640004,
+        38.599998474121094
+      ],
+      "operators": {
+        "TRAM": [
+          "99153"
+        ]
+      }
+    },
+    {
+      "stopId": 99201,
+      "nameEn": "KENNNEDY TOWN TERMINUS",
+      "nameTc": "\u5805\u5c3c\u5730\u57ce\u7e3d\u7ad9",
+      "coordinates": [
+        1.9918798726517297,
+        0.3889116997686039,
+        165.10000610351562
+      ],
+      "operators": {
+        "TRAM": [
+          "99201"
+        ]
+      }
+    },
+    {
+      "stopId": 99202,
+      "nameEn": "CATCHICK STREET (NORTH STREET)",
+      "nameTc": "\u5409\u5e2d\u8857",
+      "coordinates": [
+        1.991923052097424,
+        0.3889188032586596,
+        98.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99202"
+        ]
+      }
+    },
+    {
+      "stopId": 99203,
+      "nameEn": "KENNNEDY TOWN PRAYA (HOLLAND STREET)",
+      "nameTc": "\u5805\u5c3c\u5730\u57ce\u6d77\u65c1",
+      "coordinates": [
+        1.9919540316916469,
+        0.3889392934240779,
+        71.5999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99203"
+        ]
+      }
+    },
+    {
+      "stopId": 99204,
+      "nameEn": "KENNNEDY TOWN PRAYA (QUEEN'S ROAD WEST)",
+      "nameTc": "\u5805\u5c3c\u5730\u57ce\u6d77\u65c1",
+      "coordinates": [
+        1.9919836673823457,
+        0.388974304728873,
+        79.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99204"
+        ]
+      }
+    },
+    {
+      "stopId": 99205,
+      "nameEn": "DES VOEUX ROAD WEST (HILL ROAD)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.992018556514093,
+        0.3889842356523168,
+        13.800000190734863
+      ],
+      "operators": {
+        "TRAM": [
+          "99205"
+        ]
+      }
+    },
+    {
+      "stopId": 99206,
+      "nameEn": "DES VOEUX ROAD WEST (WHITTY STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9920566570516642,
+        0.3889784237059077,
+        111.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99206"
+        ]
+      }
+    },
+    {
+      "stopId": 99207,
+      "nameEn": "DES VOEUX ROAD WEST (WATER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9920940769108268,
+        0.3889889829478822,
+        80.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99207"
+        ]
+      }
+    },
+    {
+      "stopId": 99208,
+      "nameEn": "DES VOEUX ROAD WEST (WESTERN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9921301528664657,
+        0.3889987742449859,
+        82.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99208"
+        ]
+      }
+    },
+    {
+      "stopId": 99209,
+      "nameEn": "DES VOEUX ROAD WEST (EASTERN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9921823207578078,
+        0.3889973605282918,
+        73.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99209"
+        ]
+      }
+    },
+    {
+      "stopId": 99210,
+      "nameEn": "DES VOEUX ROAD WEST (QUEEN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u897f",
+      "coordinates": [
+        1.9922424473505391,
+        0.38899374769674017,
+        73.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99210"
+        ]
+      }
+    },
+    {
+      "stopId": 99211,
+      "nameEn": "CONNAUGHT ROAD WEST (MACAU FERRY TERMINAL)",
+      "nameTc": "\u5e72\u8afe\u9053\u897f",
+      "coordinates": [
+        1.9922952784669967,
+        0.3889948647074614,
+        69.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99211"
+        ]
+      }
+    },
+    {
+      "stopId": 99212,
+      "nameEn": "WESTERN MARKET TERMINUS",
+      "nameTc": "\u4e0a\u74b0\u8857\u5e02(\u897f\u6e2f\u57ce)\u7e3d\u7ad9",
+      "coordinates": [
+        1.9923054537365361,
+        0.38897973270284664,
+        111.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99212"
+        ]
+      }
+    },
+    {
+      "stopId": 99213,
+      "nameEn": "DES VOEUX ROAD CENTRAL (HILLIER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9923266245803626,
+        0.3889750028605737,
+        86.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99213"
+        ]
+      }
+    },
+    {
+      "stopId": 99214,
+      "nameEn": "DES VOEUX ROAD CENTRAL (GILMAN STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9923747258545477,
+        0.3889550013873459,
+        72.80000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99214"
+        ]
+      }
+    },
+    {
+      "stopId": 99215,
+      "nameEn": "DES VOEUX ROAD CENTRAL (JUBILEE STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.992392161693775,
+        0.3889414401790579,
+        78.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99215"
+        ]
+      }
+    },
+    {
+      "stopId": 99216,
+      "nameEn": "DES VOEUX ROAD CENTRAL (PEDDER STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.992426562133332,
+        0.38889810365373084,
+        109.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99216"
+        ]
+      }
+    },
+    {
+      "stopId": 99217,
+      "nameEn": "DES VOEUX ROAD CENTRAL (ICE HOUSE STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9924436663600014,
+        0.38887745640867977,
+        94.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99217"
+        ]
+      }
+    },
+    {
+      "stopId": 99218,
+      "nameEn": "DES VOEUX ROAD CENTRAL (BANK STREET)",
+      "nameTc": "\u5fb7\u8f14\u9053\u4e2d",
+      "coordinates": [
+        1.9924722897597342,
+        0.3888686250426647,
+        78.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99218"
+        ]
+      }
+    },
+    {
+      "stopId": 99219,
+      "nameEn": "QUEENSWAY (MURRAY ROAD)",
+      "nameTc": "\u91d1\u9418\u9053",
+      "coordinates": [
+        1.992502763208474,
+        0.3888546100487712,
+        6.580660343170166
+      ],
+      "operators": {
+        "TRAM": [
+          "99219"
+        ]
+      }
+    },
+    {
+      "stopId": 99220,
+      "nameEn": "QUEENSWAY (ADMIRALTY MTR STATION)",
+      "nameTc": "\u91d1\u9418\u9053",
+      "coordinates": [
+        1.9925444242177188,
+        0.38883160660922994,
+        11.149622917175293
+      ],
+      "operators": {
+        "TRAM": [
+          "99220"
+        ]
+      }
+    },
+    {
+      "stopId": 99221,
+      "nameEn": "HENNESSY ROAD (ARSENAL STREET)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.992610484929907,
+        0.38882198984505145,
+        5.9593095779418945
+      ],
+      "operators": {
+        "TRAM": [
+          "99221"
+        ]
+      }
+    },
+    {
+      "stopId": 99222,
+      "nameEn": "JOHNSTON ROAD (LUARD ROAD)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9926773659468435,
+        0.38879755523552345,
+        79.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99222"
+        ]
+      }
+    },
+    {
+      "stopId": 99223,
+      "nameEn": "JOHNSTON ROAD (O'BRIEN ROAD)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9926982051781124,
+        0.38879977180367353,
+        73.69999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99223"
+        ]
+      }
+    },
+    {
+      "stopId": 99224,
+      "nameEn": "JOHNSTON ROAD (FLEMING ROAD)",
+      "nameTc": "\u838a\u58eb\u6566\u9053",
+      "coordinates": [
+        1.9927369863940916,
+        0.3888079748511579,
+        88.9000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99224"
+        ]
+      }
+    },
+    {
+      "stopId": 99225,
+      "nameEn": "CAUSEWAY BAY TERMINUS",
+      "nameTc": "\u9285\u947c\u7063\u7e3d\u7ad9",
+      "coordinates": [
+        1.9929395318537855,
+        0.3888467386138447,
+        122.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99225"
+        ]
+      }
+    },
+    {
+      "stopId": 99226,
+      "nameEn": "HENNESSY ROAD (TONNOCHY ROAD)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.9927776351123703,
+        0.3888289362554744,
+        92.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99226"
+        ]
+      }
+    },
+    {
+      "stopId": 99227,
+      "nameEn": "HENNESSY ROAD (CANAL ROAD WEST)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.9928338521675775,
+        0.38884736693237537,
+        72.80000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99227"
+        ]
+      }
+    },
+    {
+      "stopId": 99228,
+      "nameEn": "HENNESSY ROAD (PERCIVAL STREET)",
+      "nameTc": "\u8ed2\u5c3c\u8a69\u9053",
+      "coordinates": [
+        1.9928692474448075,
+        0.3888606139813981,
+        105.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99228"
+        ]
+      }
+    },
+    {
+      "stopId": 99230,
+      "nameEn": "YEE WO STREET (PATERSON STREET)",
+      "nameTc": "\u6021\u548c\u8857",
+      "coordinates": [
+        1.9929239460635653,
+        0.3888542958895059,
+        88.80000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99230"
+        ]
+      }
+    },
+    {
+      "stopId": 99231,
+      "nameEn": "CAUSEWAY ROAD(SHELTER STREET)",
+      "nameTc": "\u9ad8\u58eb\u5a01\u9053",
+      "coordinates": [
+        1.9929547685781555,
+        0.38885272509317903,
+        4.908280849456787
+      ],
+      "operators": {
+        "TRAM": [
+          "99231"
+        ]
+      }
+    },
+    {
+      "stopId": 99232,
+      "nameEn": "CAUSEWAY ROAD(VICTORIA PARK)",
+      "nameTc": "\u9ad8\u58eb\u5a01\u9053",
+      "coordinates": [
+        1.992980337651697,
+        0.38886942789412066,
+        4.999072074890137
+      ],
+      "operators": {
+        "TRAM": [
+          "99232"
+        ]
+      }
+    },
+    {
+      "stopId": 99233,
+      "nameEn": "KING'S ROAD (HING FAT STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930125215231038,
+        0.38889117469660045,
+        5.0805344581604
+      ],
+      "operators": {
+        "TRAM": [
+          "99233"
+        ]
+      }
+    },
+    {
+      "stopId": 99234,
+      "nameEn": "KING'S ROAD (WING HING STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.993041144922837,
+        0.38894901490801154,
+        71.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99234"
+        ]
+      }
+    },
+    {
+      "stopId": 99235,
+      "nameEn": "KING'S ROAD (JUPITER STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9930416685216121,
+        0.38897156456194726,
+        102.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99235"
+        ]
+      }
+    },
+    {
+      "stopId": 99236,
+      "nameEn": "KING'S ROAD (FORTRESS HILL)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.993066399837113,
+        0.3890201021684453,
+        83.30000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99236"
+        ]
+      }
+    },
+    {
+      "stopId": 99237,
+      "nameEn": "KING'S ROAD (NORTH POINT ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9931150072567811,
+        0.3890437339265173,
+        81.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99237"
+        ]
+      }
+    },
+    {
+      "stopId": 99238,
+      "nameEn": "KING'S ROAD (SHU KUK STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9931773329643698,
+        0.3890564922833494,
+        66.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99238"
+        ]
+      }
+    },
+    {
+      "stopId": 99239,
+      "nameEn": "KING'S ROAD (TIN CHIU STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9932296753886372,
+        0.38906720860495664,
+        6.699999809265137
+      ],
+      "operators": {
+        "TRAM": [
+          "99239"
+        ]
+      }
+    },
+    {
+      "stopId": 99240,
+      "nameEn": "KING'S ROAD (HEALTHY STREET WEST)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9932564312860699,
+        0.3890709785161409,
+        29.600000381469727
+      ],
+      "operators": {
+        "TRAM": [
+          "99240"
+        ]
+      }
+    },
+    {
+      "stopId": 99241,
+      "nameEn": "KING'S ROAD (HEALTHY STREET EAST)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9932982668282404,
+        0.3890641891853507,
+        96.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99241"
+        ]
+      }
+    },
+    {
+      "stopId": 99242,
+      "nameEn": "KING'S ROAD (JAVA ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933243420472653,
+        0.3890489001011032,
+        4.5
+      ],
+      "operators": {
+        "TRAM": [
+          "99242"
+        ]
+      }
+    },
+    {
+      "stopId": 99243,
+      "nameEn": "KING'S ROAD (FINNIE STREET)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933385664806689,
+        0.38900949056659323,
+        43.400001525878906
+      ],
+      "operators": {
+        "TRAM": [
+          "99243"
+        ]
+      }
+    },
+    {
+      "stopId": 99244,
+      "nameEn": "KING'S ROAD (MOUNT PARKER ROAD)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9933602260166863,
+        0.3889598359493739,
+        89.80000305175781
+      ],
+      "operators": {
+        "TRAM": [
+          "99244"
+        ]
+      }
+    },
+    {
+      "stopId": 99245,
+      "nameEn": "KING'S ROAD (SHIPYARD LANE)",
+      "nameTc": "\u82f1\u7687\u9053",
+      "coordinates": [
+        1.9934074720795378,
+        0.38894138781918036,
+        134.89999389648438
+      ],
+      "operators": {
+        "TRAM": [
+          "99245"
+        ]
+      }
+    },
+    {
+      "stopId": 99246,
+      "nameEn": "KORNHILL ROAD (KORNHILL)",
+      "nameTc": "\u5eb7\u5c71\u9053",
+      "coordinates": [
+        1.9934460962158842,
+        0.3889407595006496,
+        38.20000076293945
+      ],
+      "operators": {
+        "TRAM": [
+          "99246"
+        ]
+      }
+    },
+    {
+      "stopId": 99247,
+      "nameEn": "SHAU KEI WAN ROAD (TAI KOO SHING ROAD)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935224718239517,
+        0.38893000827245733,
+        120.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99247"
+        ]
+      }
+    },
+    {
+      "stopId": 99248,
+      "nameEn": "SHAU KEI WAN ROAD (TAI HONG STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935351603676137,
+        0.38891393379004646,
+        65.19999694824219
+      ],
+      "operators": {
+        "TRAM": [
+          "99248"
+        ]
+      }
+    },
+    {
+      "stopId": 99249,
+      "nameEn": "SHAU KEI WAN ROAD (HOI FOO STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9935932449251201,
+        0.3888669495265828,
+        44.900001525878906
+      ],
+      "operators": {
+        "TRAM": [
+          "99249"
+        ]
+      }
+    },
+    {
+      "stopId": 99250,
+      "nameEn": "SHAU KEI WAN ROAD (NAM HONG STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.99362607456835,
+        0.38883825631367996,
+        75.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99250"
+        ]
+      }
+    },
+    {
+      "stopId": 99251,
+      "nameEn": "SHAU KEI WAN ROAD (CHAI WAN ROAD)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.9936775443279913,
+        0.38880293084961964,
+        82.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99251"
+        ]
+      }
+    },
+    {
+      "stopId": 99252,
+      "nameEn": "SHAU KEI WAN ROAD (TAI HONG STREET)",
+      "nameTc": "\u7b72\u7b95\u7063\u9053",
+      "coordinates": [
+        1.993546173395194,
+        0.38889990134286045,
+        90.4000015258789
+      ],
+      "operators": {
+        "TRAM": [
+          "99252"
+        ]
+      }
+    },
+    {
+      "stopId": 99301,
+      "nameEn": "PERCIVAL STREET (FOO MING STREET)",
+      "nameTc": "\u6ce2\u65af\u5bcc\u8857(\u5bcc\u660e\u8857)",
+      "coordinates": [
+        1.9928687412993247,
+        0.3888479952509061,
+        52.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99301"
+        ]
+      }
+    },
+    {
+      "stopId": 99302,
+      "nameEn": "LEIGHTON ROAD",
+      "nameTc": "\u79ae\u9813\u9053",
+      "coordinates": [
+        1.992858915095636,
+        0.38880701492006925,
+        124.0
+      ],
+      "operators": {
+        "TRAM": [
+          "99302"
+        ]
+      }
+    },
+    {
+      "stopId": 99303,
+      "nameEn": "WONG NAI CHUNG ROAD (BROADWOOD ROAD)",
+      "nameTc": "\u9ec3\u6ce5\u6d8c\u9053(\u6a02\u6d3b\u9053)",
+      "coordinates": [
+        1.9928809236975036,
+        0.38875359039166574,
+        38.099998474121094
+      ],
+      "operators": {
+        "TRAM": [
+          "99303"
+        ]
+      }
+    },
+    {
+      "stopId": 99304,
+      "nameEn": "HAPPY VALLEY TERMINUS",
+      "nameTc": "\u8dd1\u99ac\u5730\u7e3d\u7ad9",
+      "coordinates": [
+        1.9928893885443757,
+        0.38868171773306864,
+        50.900001525878906
+      ],
+      "operators": {
+        "TRAM": [
+          "99304"
+        ]
+      }
+    },
+    {
+      "stopId": 99305,
+      "nameEn": "WONG NAI CHUNG ROAD (QUEEN'S ROAD EAST)",
+      "nameTc": "\u9ec3\u6ce5\u6d8c\u9053(\u7687\u540e\u5927\u9053\u6771)",
+      "coordinates": [
+        1.9928069217372189,
+        0.3887619505187828,
+        13.314970016479492
+      ],
+      "operators": {
+        "TRAM": [
+          "99305"
+        ]
+      }
+    },
+    {
+      "stopId": 99306,
+      "nameEn": "TIN LOK LANE (HENNESSY ROAD)",
+      "nameTc": "\u5929\u6a02\u91cc(\u8ed2\u5c3c\u8a69\u9053)",
+      "coordinates": [
+        1.9928104822088932,
+        0.3888333344851894,
+        78.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99306"
+        ]
+      }
+    },
+    {
+      "stopId": 99307,
+      "nameEn": "WONG NAI CHUNG ROAD",
+      "nameTc": "\u9ec3\u6ce5\u6d8c\u9053",
+      "coordinates": [
+        1.9928992147480644,
+        0.38871590873311523,
+        84.5999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99307"
+        ]
+      }
+    },
+    {
+      "stopId": 99308,
+      "nameEn": "WONG NAI CHUNG ROAD (COLONIAL CEMETERY)",
+      "nameTc": "\u9ec3\u6ce5\u6d8c\u9053(\u5929\u4e3b\u6559\u58b3\u5834)",
+      "coordinates": [
+        1.9928233452854802,
+        0.3887124529811962,
+        12.300000190734863
+      ],
+      "operators": {
+        "TRAM": [
+          "99308"
+        ]
+      }
+    },
+    {
+      "stopId": 99309,
+      "nameEn": "MORRISON HILL ROAD (LEIGHTON ROAD)",
+      "nameTc": "\u6469\u5229\u81e3\u5c71\u9053(\u79ae\u9813\u9053)",
+      "coordinates": [
+        1.9928272548230046,
+        0.3887879559246375,
+        8.835369110107422
+      ],
+      "operators": {
+        "TRAM": [
+          "99309"
+        ]
+      }
+    },
+    {
+      "stopId": 99310,
+      "nameEn": "SHAU KEI WAN TERMINUS",
+      "nameTc": "\u7b72\u7b95\u7063\u7e3d\u7ad9",
+      "coordinates": [
+        1.9936933046511367,
+        0.3888227926965073,
+        33.79999923706055
+      ],
+      "operators": {
+        "TRAM": [
+          "99310"
+        ]
+      }
+    },
+    {
+      "stopId": 99311,
+      "nameEn": "CHUN YEUNG STREET (NORTH POINT ROAD)",
+      "nameTc": "\u6625\u79e7\u8857",
+      "coordinates": [
+        1.9931087415247666,
+        0.3890531936110631,
+        91.0999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99311"
+        ]
+      }
+    },
+    {
+      "stopId": 99312,
+      "nameEn": "NORTH POINT TERMINUS",
+      "nameTc": "\u5317\u89d2\u7e3d\u7ad9",
+      "coordinates": [
+        1.993144485867847,
+        0.3890542931684919,
+        72.5999984741211
+      ],
+      "operators": {
+        "TRAM": [
+          "99312"
+        ]
+      }
+    },
+    {
+      "stopId": 99313,
+      "nameEn": "WHITTY STREET (SHEK TONG TSUI) TERMINUS",
+      "nameTc": "\u5c48\u5730\u8857(\u77f3\u5858\u5480)\u7e3d\u7ad9",
+      "coordinates": [
+        1.9920329380271296,
+        0.3889831360948881,
+        7.599999904632568
+      ],
+      "operators": {
+        "TRAM": [
+          "99313"
+        ]
+      }
+    }
+  ]
+}

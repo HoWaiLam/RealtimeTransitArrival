@@ -1,0 +1,233 @@
+html {
+    height: 100%;
+}
+
+body {
+    background: #000;
+    color: #eee;
+    font-family: sans-serif;
+    font-size: 9pt;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+}
+
+.clock {
+	font-size: 16px;
+}
+
+.contents {
+	background: rgba(20, 20, 20, 1);
+	border-bottom-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	display: flex;
+	flex-direction: column;
+	gap: 2px;
+	font-size: 14px;
+	padding: 10px 10px 10px 10px;
+}
+
+.enter {
+	transform: translateX(0%);
+}
+
+.exit {
+	transform: translateX(-110%);
+}
+
+.header {
+	font-weight: normal;
+	text-align: center;
+}
+
+.header-tc {
+	padding: 2px;
+}
+
+.header-en {
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	padding: 2px;
+}
+
+.panel-container {
+	margin-left: 10px;
+	margin-top: 10px;
+	position: relative;
+	width: fit-content;
+}
+
+.panel-collection {
+	display: flex;
+	flex-direction: column;
+	font-size: 16px;
+	font-family: Arial, Helvetica, sans-serif;
+	gap: 10px;
+	overflow-y: auto;
+	position: relative;
+	transition: transform .3s ease-out;
+	width: 350;
+}
+
+.popup-content {
+	position: relative;
+	display: grid;
+	grid-template-rows: 1fr 0.765fr;
+	grid-template-columns: 1.25fr 1.5fr 5fr 1fr 1.5fr 1.25fr;
+	grid-template-areas: 
+		'img route destc eta unitc state'
+		'img route deste eta unite state';
+	vertical-align: middle;
+}
+
+.popup-content-destc {
+	grid-area: destc;
+	font-size: 0.85em;
+	margin-top: auto;
+}
+
+.popup-content-deste {
+	grid-area: deste;
+	font-size: 0.65em;
+	margin-bottom: auto;				
+}
+
+.popup-content-eta {
+	grid-area: eta;
+	font-size: 1.2em;
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.popup-content-eta-unitc {
+	grid-area: unitc;
+	font-size: 0.78em;
+	margin-top: auto;
+	text-align: center;
+}
+
+.popup-content-eta-unite {
+	grid-area: unite;
+	font-size: 0.58em;
+	margin-bottom: auto;
+	text-align: center;				
+}
+
+.popup-content-img {
+	grid-area: img;
+}
+
+.popup-content-route {
+	grid-area: route;
+	font-size: 1.2em;
+	text-align: center;
+	margin-top: auto;
+	margin-bottom: auto;
+}
+
+.popup-content-state {
+	grid-area: state;
+	width: 100%;
+	height: 100%;
+}
+
+.popup-title {
+	display: flex;
+	flex-direction: row;
+	gap: 10px;
+	margin: auto;
+}
+
+.popup-title-logo {
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+.popup-title-text {
+	display: flex;
+	flex-direction: column;
+	gap: 5px;
+	vertical-align: bottom;
+}
+
+.popup-title-en {
+	font-size: 14px;
+}
+			
+.transit-title {
+	display: flex;
+	gap: 10px;
+	margin: auto;
+	vertical-align: bottom;
+}
+
+.transit-title-logo {
+}
+
+.transit-title-tc {
+	align-self: flex-end;
+}
+
+.transit-title-en {
+	align-self: flex-end;
+	vertical-align: bottom;
+}
+
+.transit-title-checkbox {
+	margin-bottom: auto;
+	margin-top: auto;
+}
+
+.transit-title-checkbox-input {
+	position: absoulte;
+	right: 0px;
+}
+
+.transit-tally {
+	display: grid;
+	grid-template-columns: 4fr 1fr;
+	grid-template-rows: 1fr 0.8fr;
+	grid-template-areas: 
+		'transit-tally-tc transit-tally-value'
+		'transit-tally-en transit-tally-value';
+	font-weight: normal;
+	padding: 2px;
+}
+
+.transit-tally-tc {
+	grid-area: transit-tally-tc;
+}
+
+.transit-tally-en {
+	grid-area: transit-tally-en;
+	font-size: 12px;
+}
+
+.transit-tally-value {
+	font-size: 18px;
+	grid-area: transit-tally-value;
+	margin:auto;
+}
+
+.title {
+	background: rgba(50, 50, 50, 1);
+	border-top-left-radius: 20px;
+	border-top-right-radius: 20px;
+	font-size: 16px;
+	font-weight: normal;
+	padding: 10px 10px 5px 10px;
+}
+	
+#cesiumContainer {
+    display: block;
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: none;
+    width: 100%;
+    height: 100%;
+}

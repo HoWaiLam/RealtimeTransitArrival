@@ -1,0 +1,89 @@
+{
+  "data": [
+    {
+      "mode": 1,
+      "descEn": "Franchised Bus",
+      "descTc": "專營巴士",
+      "aliasEn": "Bus",
+      "aliasTc": "巴士",
+      "icon": "busLogo.png",
+      "hasEta": true
+    },
+    {
+      "mode": 2,
+      "descEn": "Green Minibus",
+      "descTc": "綠色專線小巴",
+      "aliasEn": "GMB",
+      "aliasTc": "專巴",
+      "icon": "GREEN_MINIBUS_STAND_HK.svg",
+      "hasEta": true
+    },
+    {
+      "mode": 4,
+      "descEn": "Tram",
+      "descTc": "電車",
+      "aliasEn": "Tram",
+      "aliasTc": "電車",
+      "icon": "HKTramwaysLogoLarge.png"
+    },
+    {
+      "mode": 5,
+      "descEn": "Peak Tram",
+      "descTc": "山頂纜車",
+      "aliasEn": "Peak Tram",
+      "aliasTc": "山頂纜車",
+      "icon": ""
+    },
+  
+    {
+      "mode": 7,
+      "descEn": "Ferry",
+      "descTc": "渡海小輪",
+      "aliasEn": "Ferry",
+      "aliasTc": "渡輪",
+      "icon": ""
+    },
+    {
+      "mode": 8,
+      "descEn": "KaiTo Ferry",
+      "descTc": "街渡渡輪",
+      "aliasEn": "KaiTo",
+      "aliasTc": "街渡",
+      "icon": ""
+    },
+    {
+      "mode": 9,
+      "descEn": "Cross Border Ferry",
+      "descTc": "跨境渡輪",
+      "aliasEn": "Cross Border Ferry",
+      "aliasTc": "跨境渡輪",
+      "icon": "CrossBorderFerry.svg"
+    },
+    {
+      "mode": 10,
+      "descEn": "Mass Transit Rail",
+      "descTc": "鐵路系統",
+      "aliasEn": "MTR",
+      "aliasTc": "地鐵",
+      "icon": "HK_MTR_logo.svg",
+      "hasEta": true
+    },
+    {
+      "mode": 11,
+      "descEn": "Light Rail",
+      "descTc": "輕便鐵路",
+      "aliasEn": "Light Rail",
+      "aliasTc": "輕鐵",
+      "icon": "MTRlightrail.svg",
+      "hasEta": true
+    },
+    {
+      "mode": 12,
+      "descEn": "High Speed Rail",
+      "descTc": "高速鐵路",
+      "aliasEn": "High Speed Rail",
+      "aliasTc": "高鐵",
+      "icon": ""
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "exportDate": "2025-04-12T12:46:54.129987+00:00",
+  "data": [
+    {
+      "aliasEn": "GMB",
+      "aliasTc": "\u5c08\u5df4",
+      "nameEn": "Green Minibus",
+      "nameTc": "\u7da0\u8272\u5c08\u7dda\u5c0f\u5df4",
+      "icon": "GREEN_MINIBUS_STAND_HK.svg",
+      "etaUrl": "https://data.etagmb.gov.hk/eta/stop/{stopId}"
+    }
+  ]
+}

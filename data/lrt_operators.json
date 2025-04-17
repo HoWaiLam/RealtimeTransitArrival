@@ -1,0 +1,14 @@
+{
+  "exportDate": "2025-04-12T12:48:13.716839+00:00",
+  "data": [
+    {
+      "aliasEn": "MTR",
+      "aliasTc": "\u6e2f\u9435",
+      "nameEn": "Mass Transit Rail",
+      "nameTc": "\u9999\u6e2f\u9435\u8def\u6709\u9650\u516c\u53f8",
+      "icon": "HK_MTR_logo.svg",
+      "exitIcon": "MTR_Exit_Sign.svg",
+      "etaUrl": "https://rt.data.gov.hk/v1/transport/mtr/lrt/getSchedule?station_id={stopId}"
+    }
+  ]
+}
