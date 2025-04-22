@@ -1,5 +1,5 @@
 {
-  "exportTimestamp": "2025-04-12T12:46:49.738786+00:00",
+  "exportTimestamp": "2025-04-22T02:22:23.183642+00:00",
   "data": [
     {
       "stopId": 2,
@@ -527,7 +527,7 @@
           "001031",
           "001033",
           "002422",
-          "002581"
+          "003337"
         ],
         "KMB": [
           "33D9DBB7E4754BFD"
@@ -2009,8 +2009,7 @@
           "001213",
           "001412",
           "002160",
-          "002200",
-          "002581"
+          "002200"
         ],
         "KMB": [
           "EAFC59DD23C39D5C",
@@ -3051,7 +3050,7 @@
     },
     {
       "stopId": 220,
-      "nameEn": "CAUSEWAY BAY TYPHOON SHELTER, VICTORIA PARK ROAD",
+      "nameEn": "VICTORIA PARK ROAD",
       "nameTc": "\u7dad\u5712\u9053",
       "coordinates": [
         1.992926494244273,
@@ -9672,7 +9671,6 @@
         "CTB": [
           "001267",
           "001411",
-          "001547",
           "001556",
           "002404",
           "002414"
@@ -10182,8 +10180,7 @@
       ],
       "operators": {
         "CTB": [
-          "001572",
-          "002581"
+          "001572"
         ],
         "KMB": [
           "0AB522DFFCD4CD4F",
@@ -11591,7 +11588,7 @@
     {
       "stopId": 929,
       "nameEn": "AIRPORT (GTC) BUS TERMINUS",
-      "nameTc": "\u6a5f\u5834(\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)\u5df4\u58eb\u7e3d\u7ad9",
+      "nameTc": "\u6a5f\u5834 (\u5730\u9762\u904b\u8f38\u4e2d\u5fc3)",
       "coordinates": [
         1.9885773431878135,
         0.38944652101129257,
@@ -12051,8 +12048,7 @@
       ],
       "operators": {
         "CTB": [
-          "001547",
-          "002581"
+          "001547"
         ],
         "KMB": [
           "BBE77B90CE43AEFA",
@@ -12412,8 +12408,8 @@
     },
     {
       "stopId": 1000,
-      "nameEn": "PUI SHING ROAD",
-      "nameTc": "\u57f9\u6210\u8def",
+      "nameEn": "NAN FUNG PLAZA, PUI SHING ROAD",
+      "nameTc": "\u57f9\u6210\u8def \u5357\u8c50\u5ee3\u5834",
       "coordinates": [
         1.9942864373441347,
         0.38947064146155513,
@@ -12507,8 +12503,8 @@
     },
     {
       "stopId": 1008,
-      "nameEn": "CHUNG WA ROAD",
-      "nameTc": "\u91cd\u83ef\u8def",
+      "nameEn": "CHUNG WA ROAD, EAST POINT CITY",
+      "nameTc": "\u91cd\u83ef\u8def \u6771\u6e2f\u57ce",
       "coordinates": [
         1.9943196684130924,
         0.3895018304952883,
@@ -13121,8 +13117,8 @@
     },
     {
       "stopId": 1053,
-      "nameEn": "YAN KING ROAD",
-      "nameTc": "\u6b23\u666f\u8def",
+      "nameEn": "YAN KING ROAD, METRO CITY",
+      "nameTc": "\u6b23\u666f\u8def \u65b0\u90fd\u57ce",
       "coordinates": [
         1.9941938650806088,
         0.3896137933668037,
@@ -13405,7 +13401,7 @@
     {
       "stopId": 1073,
       "nameEn": "CHOI WAN (FUNG SHING STREET)",
-      "nameTc": "\u5f69\u96f2 (\u8c50\u76db\u8857)",
+      "nameTc": "\u89c0\u65e5\u6a13",
       "coordinates": [
         1.9934544563430014,
         0.3897909268325886,
@@ -16506,7 +16502,7 @@
     },
     {
       "stopId": 1277,
-      "nameEn": "SILVERCORD",
+      "nameEn": "SILVERCORD, CANTON ROAD",
       "nameTc": "\u65b0\u6e2f\u4e2d\u5fc3",
       "coordinates": [
         1.9926246919100183,
@@ -16527,7 +16523,7 @@
     },
     {
       "stopId": 1278,
-      "nameEn": "PEKING ROAD",
+      "nameEn": "PEKING ROAD, CANTON ROAD",
       "nameTc": "\u5317\u4eac\u9053",
       "coordinates": [
         1.9926326506114076,
@@ -20294,7 +20290,7 @@
       ],
       "operators": {
         "CTB": [
-          "002319",
+          "001287",
           "002533"
         ],
         "KMB": [
@@ -22064,7 +22060,7 @@
     {
       "stopId": 4052,
       "nameEn": "NANKING STREET YAU MA TEI",
-      "nameTc": "\u5357\u4eac\u8857, \u5f4c\u6566\u9053",
+      "nameTc": "\u6cb9\u9ebb\u5730\u5357\u4eac\u8857",
       "coordinates": [
         1.9926671906773044,
         0.38932005445369305,
@@ -23067,8 +23063,8 @@
     },
     {
       "stopId": 4147,
-      "nameEn": "WING ON PLAZA",
-      "nameTc": "\u6c38\u5b89\u5ee3\u5834",
+      "nameEn": "WING ON PLAZA, AVENUE OF STARS",
+      "nameTc": "\u6c38\u5b89\u5ee3\u5834 \u661f\u5149\u5927\u9053",
       "coordinates": [
         1.9927645975028583,
         0.3891440030920444,
@@ -23076,8 +23072,7 @@
       ],
       "operators": {
         "CTB": [
-          "003301",
-          "003302"
+          "003301"
         ],
         "KMB": [
           "C650BECDAF9D9EB0",
@@ -23096,7 +23091,7 @@
       ],
       "operators": {
         "CTB": [
-          "003301"
+          "003302"
         ],
         "KMB": [
           "1864222D8939BD69"
@@ -24995,7 +24990,7 @@
     },
     {
       "stopId": 6003,
-      "nameEn": "HIN PUI HOUSE",
+      "nameEn": "HIN PUI HOUSE HIN KENG ESTATE, HIN KENG STREET",
       "nameTc": "\u986f\u6c9b\u6a13",
       "coordinates": [
         1.9927340891475331,
@@ -25092,7 +25087,7 @@
     },
     {
       "stopId": 6009,
-      "nameEn": "HIN HING HOUSE",
+      "nameEn": "HIN HING HOUSE HIN KENG ESTATE, HIN KENG STREET",
       "nameTc": "\u986f\u6176\u6a13",
       "coordinates": [
         1.9927117140265227,
@@ -26012,7 +26007,7 @@
     },
     {
       "stopId": 6067,
-      "nameEn": "MEI WAI HOUSE",
+      "nameEn": "MEI WAI HOUSE MEI LAM ESTATE, MEI TIN ROAD",
       "nameTc": "\u7f8e\u69d0\u6a13",
       "coordinates": [
         1.992746428625345,
@@ -26574,7 +26569,7 @@
     },
     {
       "stopId": 6098,
-      "nameEn": "BANYAN HOUSE",
+      "nameEn": "BANYAN HOUSE KWONG YUEN ESTATE, KWONG SIN STREET",
       "nameTc": "\u5ee3\u6995\u6a13",
       "coordinates": [
         1.9934063899754015,
@@ -30039,8 +30034,7 @@
           "B58772294234CF74",
           "1DB270D8A2092753",
           "C67CDF76A28A4E0E",
-          "5A1A5F0DEB7F8EBE",
-          "BB1C1EFC7B243D7A"
+          "5A1A5F0DEB7F8EBE"
         ]
       }
     },
@@ -32829,8 +32823,8 @@
           "003382"
         ],
         "KMB": [
-          "60952B4A38F3D82E",
           "65ECD19EFD09FB74",
+          "60952B4A38F3D82E",
           "0AAF9F132CE224F0"
         ],
         "LWB": [
@@ -32877,7 +32871,7 @@
           "AFD29CB1A4F71AB9"
         ],
         "LWB": [
-          "6D5E2E6961E35A90"
+          "AFD29CB1A4F71AB9"
         ]
       }
     },
@@ -37472,8 +37466,8 @@
     },
     {
       "stopId": 8105,
-      "nameEn": "NGAN O ROAD",
-      "nameTc": "\u9280\u6fb3\u8def",
+      "nameEn": "NGAN O ROAD, LA CITE NOBLE",
+      "nameTc": "\u9280\u6fb3\u8def \u65b0\u5bf6\u57ce",
       "coordinates": [
         1.994328953564713,
         0.3894584765166687,
@@ -37481,7 +37475,9 @@
       ],
       "operators": {
         "CTB": [
-          "001752"
+          "001752",
+          "001754",
+          "003160"
         ],
         "KMB": [
           "6C3F6AF77695CAE9"
@@ -37499,8 +37495,7 @@
       ],
       "operators": {
         "CTB": [
-          "001754",
-          "003160"
+          "001752"
         ],
         "KMB": [
           "54FCA9F5D8F3587E"
@@ -38105,8 +38100,8 @@
     },
     {
       "stopId": 8148,
-      "nameEn": "THE BEAUMOUNT",
-      "nameTc": "\u5cfb\u7005",
+      "nameEn": "THE BEAUMOUNT / LOHAS PARK",
+      "nameTc": "\u5cfb\u7005 \u65e5\u51fa\u5eb7\u57ce",
       "coordinates": [
         1.9944329228282542,
         0.3891624163156529,
@@ -38243,8 +38238,8 @@
     },
     {
       "stopId": 8155,
-      "nameEn": "YAN KING ROAD",
-      "nameTc": "\u6b23\u666f\u8def",
+      "nameEn": "YAN KING ROAD, METRO CITY",
+      "nameTc": "\u6b23\u666f\u8def \u65b0\u90fd\u57ce",
       "coordinates": [
         1.994189466850894,
         0.38962278181245147,
@@ -41663,8 +41658,8 @@
     },
     {
       "stopId": 9035,
-      "nameEn": "KOWLOON CITY FERRY BUS TERMINUS",
-      "nameTc": "\u4e5d\u9f8d\u57ce\u78bc\u982d\u5df4\u58eb\u7e3d\u7ad9",
+      "nameEn": "KOWLOON CITY FERRY PIER",
+      "nameTc": "\u4e5d\u9f8d\u57ce\u78bc\u982d",
       "coordinates": [
         1.9930518961510288,
         0.3895261952916461,
@@ -43566,8 +43561,8 @@
     },
     {
       "stopId": 9165,
-      "nameEn": "LUNG CHEUNG ROAD LOOKOUT",
-      "nameTc": "\u8c50\u529b\u6a13, \u9f8d\u7fd4\u9053\u773a\u671b\u8655",
+      "nameEn": "PHOENIX HOUSE, LUNG CHEUNG ROAD",
+      "nameTc": "\u8c50\u529b\u6a13, \u9f8d\u7fd4\u9053",
       "coordinates": [
         1.9926905431826958,
         0.38996137568733835,
@@ -56410,7 +56405,7 @@
       ],
       "operators": {
         "CTB": [
-          "001213",
+          "002474",
           "002972"
         ]
       }
@@ -62872,8 +62867,8 @@
     },
     {
       "stopId": 12881,
-      "nameEn": "MEI CHI HOUSE",
-      "nameTc": "\u7f8e\u81f4\u6a13",
+      "nameEn": "MEI CHI HOUSE MEI TIN ESTATE",
+      "nameTc": "\u7f8e\u7530\u90a8\u7f8e\u81f4\u6a13",
       "coordinates": [
         1.9926637523786777,
         0.3905489582333148,
@@ -66767,8 +66762,8 @@
     },
     {
       "stopId": 13157,
-      "nameEn": "TUNG LO WAN VILLAGE",
-      "nameTc": "\u9285\u947c\u7063\u6751",
+      "nameEn": "TUNG LO WAN VILLAGE, TAI PO ROAD",
+      "nameTc": "\u9285\u947c\u7063\u6751, \u5927\u57d4\u516c\u8def",
       "coordinates": [
         1.992827970407998,
         0.39055574756410505,
@@ -66777,9 +66772,6 @@
       "operators": {
         "CTB": [
           "003640"
-        ],
-        "KMB": [
-          "92B3E07F00FBB305"
         ]
       }
     },
@@ -67312,8 +67304,8 @@
     },
     {
       "stopId": 13196,
-      "nameEn": "SHING CHUEN HOUSE",
-      "nameTc": "\u57ce\u6cc9\u6a13",
+      "nameEn": "SHING CHUEN HOUSE SHUI CHUEN O ESTATE, POK CHUEN STREET",
+      "nameTc": "\u6c34\u6cc9\u6fb3\u90a8\u57ce\u6cc9\u6a13, \u535a\u6cc9\u8857",
       "coordinates": [
         1.9931069089290518,
         0.39047865637104445,
@@ -67547,8 +67539,8 @@
     },
     {
       "stopId": 13213,
-      "nameEn": "YUET CHUEN HOUSE",
-      "nameTc": "\u6708\u6cc9\u6a13",
+      "nameEn": "YUET CHUEN HOUSE SHUI CHUEN O ESTATE, POK CHUEN STREET",
+      "nameTc": "\u6c34\u6cc9\u6fb3\u90a8\u6708\u6cc9\u6a13,\u535a\u6cc9\u8857",
       "coordinates": [
         1.993108095752943,
         0.3904751831658329,
@@ -69849,8 +69841,8 @@
     },
     {
       "stopId": 13396,
-      "nameEn": "TUNG CHUNG MTR STATION",
-      "nameTc": "\u6771\u6d8c\u6e2f\u9435\u7ad9",
+      "nameEn": "TUNG CHUNG STATION BUS TERMINUS",
+      "nameTc": "\u6771\u6d8c\u7ad9\u5df4\u58eb\u7e3d\u7ad9",
       "coordinates": [
         1.9886217443639842,
         0.38903301760491005,
@@ -73309,19 +73301,19 @@
     },
     {
       "stopId": 10000239,
-      "nameEn": "HONG KONG RED SWASTIKA SOCIETY TAI PO SECONDARY SCHOOL",
-      "nameTc": "\u9999\u6e2f\u7d05\u534d\u5b57\u6703\u5927\u57d4\u534d\u6148\u4e2d\u5b78",
+      "nameEn": "CHUNG NGA COURT",
+      "nameTc": "\u980c\u96c5\u82d1",
       "coordinates": [
-        1.9926648868426917,
-        0.3920216845094401,
-        18.682950973510742
+        1.9926486029207706,
+        0.39200529586776395,
+        20.0
       ],
       "operators": {
         "KMB": [
           "4C1CD2009B21E9A1"
         ],
         "LWB": [
-          "BE6BE96955254B48"
+          "4C1CD2009B21E9A1"
         ]
       }
     },

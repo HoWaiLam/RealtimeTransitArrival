@@ -1,5 +1,5 @@
 {
-  "exportTimestamp": "2025-04-12T12:48:10.394241+00:00",
+  "exportTimestamp": "2025-04-22T02:23:36.444485+00:00",
   "data": [
     {
       "routeId": "20004101",
@@ -8927,6 +8927,9 @@
         387,
         388,
         1254,
+        4721,
+        4722,
+        4723,
         386
       ]
     },
@@ -8943,6 +8946,8 @@
       "destTc": "\u9806\u5929",
       "stops": [
         386,
+        4724,
+        4725,
         389,
         349,
         940,
@@ -8967,9 +8972,18 @@
       "destTc": "\u576a\u77f3(\u5faa\u74b0\u7dda)\u77ed\u7a0b\u73ed\u6b21",
       "stops": [
         380,
+        4712,
         4519,
         379,
+        4713,
+        4714,
         1392,
+        4715,
+        4716,
+        4717,
+        4718,
+        4719,
+        4720,
         391,
         4522,
         380
@@ -14326,7 +14340,7 @@
       "originEn": "Hong Kong University of Science and Technology (South Station)",
       "originTc": "\u9999\u6e2f\u79d1\u6280\u5927\u5b78(\u5357\u7ad9)",
       "destEn": "Choi Hung Station (Lung Cheung Road)  Evening special trips Route",
-      "destTc": "\u5f69\u8679\u7ad9(\u9f8d\u7fd4\u9053)\u9ec3\u660f\u7279\u5225\u73ed\u6b21",
+      "destTc": "\u5f69\u8679\u7ad9(\u9f8d\u7fd4\u9053)\u9ec3\u660f\u7279\u522b\u73ed\u6b21",
       "stops": [
         2581,
         430,
