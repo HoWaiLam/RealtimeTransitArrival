@@ -23,7 +23,7 @@ canvas {
 }
 
 .contents {
-	background: rgba(20, 20, 20, 1);
+	background: rgba(20, 20, 20, 0.90);
 	border-bottom-left-radius: 20px;
 	border-bottom-right-radius: 20px;
 	display: flex;
@@ -34,11 +34,13 @@ canvas {
 }
 
 .enter {
+	animation: fadeIn 0.5s;
 	transform: translateX(0%);
 }
 
 .exit {
-	transform: translateX(-110%);
+	animation: fadeOut 0.5s;
+	transform: translateX(-150%);
 }
 
 .header {
@@ -198,7 +200,7 @@ canvas {
 
 .transit-tally {
 	display: grid;
-	grid-template-columns: 7fr 1fr 1fr;
+	grid-template-columns: 8fr 1fr 1fr;
 	grid-template-rows: 1fr 0.8fr;
 	grid-template-areas: 
 		'transit-tally-tc transit-tally-value transit-tally-img'
@@ -233,6 +235,16 @@ canvas {
 	font-size: 16px;
 	font-weight: normal;
 	padding: 10px 10px 5px 10px;
+}
+
+@keyframes fadeIn {
+  0% { opacity: 0; transform: translateX(-150%);}
+  100% { opacity: 1; transform: translateX(0%);}
+}
+
+@keyframes fadeOut {
+  0% { opacity: 1; transform: translateX(0%);}
+  100% { opacity: 0; transform: translateX(-110%);}
 }
 	
 #cesiumContainer {
